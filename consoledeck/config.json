@@ -1,0 +1,38 @@
+{
+  "BUTTON_1": {
+    "type": "exe",
+    "value": "C:/Program Files (x86)/Steam/steam.exe"
+  },
+  "BUTTON_2": {
+    "type": "link",
+    "value": "https:www.youtube.com/"
+  },
+  "BUTTON_3": {
+    "type": "link",
+    "value": "https://www.amazon.ca/"
+  },
+  "BUTTON_4": {
+    "type": "link",
+    "value": "https://music.apple.com/us/home"
+  },
+  "BUTTON_5": {
+    "type": "link",
+    "value": "https://www.facebook.com/"
+  },
+  "BUTTON_6": {
+    "type": "link",
+    "value": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  "BUTTON_7": {
+    "type": "exe",
+    "value": "C:/Users/willi/Documents/3d prints/Pronterface.exe"
+  },
+  "BUTTON_8": {
+    "type": "exe",
+    "value": "C:/Users/willi/AppData/Local/Discord/Update.exe"
+  },
+  "BUTTON_9": {
+    "type": "link",
+    "value": "https://makerworld.com/en"
+  }
+}
